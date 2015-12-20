@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+    {
+	"name": "Launch main.js",
+	"type": "node",
+	"program": "main.js",
+	"stopOnEntry": false,
+	"args": [],
+	"cwd": ".",
+	"runtimeExecutable": "",
+	"runtimeArgs": [],
+	"env": { },
+	"sourceMaps": false,
+	"outDir": null
+   }]
+}
